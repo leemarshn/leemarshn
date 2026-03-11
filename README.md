@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeeN
-- ✨ I post my thoughts here ✨ ideas.lenhac.com
+- ✨ I post my thoughts here ✨ lenhac.com
 
 <!---
 Lee/LeeN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
